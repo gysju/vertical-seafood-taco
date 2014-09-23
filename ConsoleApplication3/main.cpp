@@ -2,6 +2,6 @@
 
 int main()
 {
-	printf("Hello World Redux !\n");
+	printf("the game !\n");
 	// kek
 }
